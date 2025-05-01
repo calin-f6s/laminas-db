@@ -6,6 +6,9 @@
     "laminas",
     "db"
   ],
+  "replace": {
+    "laminas/laminas-db": "^2"
+  },
   "homepage": "https://laminas.dev",
   "support": {
     "docs": "https://docs.laminas.dev/laminas-db/",
